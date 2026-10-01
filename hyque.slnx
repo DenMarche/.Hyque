@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="hyque/hyque.vcxproj" Id="1c44bea5-4519-4767-bdb1-a739c476e1c8" />
+</Solution>
